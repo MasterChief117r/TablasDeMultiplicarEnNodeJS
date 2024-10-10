@@ -1,0 +1,17 @@
+{
+  "name": "04-bases-node",
+  "version": "1.0.0",
+  "description": "En una tabla de multiplicar con archivo de texto",
+  "main": "app9.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base3": "node app9.js --base=3"
+  },
+  "author": "Royer Tzep",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "pdfkit": "^0.15.0",
+    "yargs": "^17.7.2"
+  }
+}
